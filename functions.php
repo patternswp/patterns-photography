@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  */
 define( 'PATTERNS_PHOTOGRAPHY_PATH', trailingslashit( get_template_directory() ) );
 define( 'PATTERNS_PHOTOGRAPHY_URL', trailingslashit( get_template_directory_uri() ) );
-define( 'PATTERNS_PHOTOGRAPHY_VERSION', '1.0.0' );
+define( 'PATTERNS_PHOTOGRAPHY_VERSION', '2.0.0' );
 define( 'PATTERNS_PHOTOGRAPHY_THEME_NAME', 'patterns-photography' );
 define( 'PATTERNS_PHOTOGRAPHY_OPTION_NAME', 'patterns-photography' );
 
