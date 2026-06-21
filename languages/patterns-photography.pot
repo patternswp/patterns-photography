@@ -1,437 +1,566 @@
-# Copyright (C) 2025 patternswp
+# Copyright (C) 2026 patternswp
 # This file is distributed under the GNU General Public License v2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Patterns Photography 1.0.0\n"
+"Project-Id-Version: Patterns Photography 2.0.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/patterns-photography\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-05-30T13:50:47+02:00\n"
+"POT-Creation-Date: 2026-06-20T20:06:39+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.6.0\n"
+"X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: patterns-photography\n"
 
 #. Theme Name of the theme
+#: style.css
 #: admin/templates/notice-getting-started.php:21
 #: admin/templates/page-theme-info.php:100
 #: admin/templates/page-theme-info.php:105
+#: deploy/patterns-photography/admin/templates/notice-getting-started.php:21
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:100
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:105
 msgid "Patterns Photography"
 msgstr ""
 
 #. Theme URI of the theme
+#: style.css
 msgid "https://patternswp.com/full-site-editing-fse-themes/patterns-photography/"
 msgstr ""
 
 #. Description of the theme
+#: style.css
 msgid "Patterns Photography is a sleek and sophisticated WordPress theme designed for photographers, photo studios, and creative professionals. Built with WordPress Full Site Editing (FSE), this theme offers effortless customization of headers, footers, templates, and global styles directly within the WordPress Site Editor.It includes pre-designed patterns and layouts tailored for showcasing portfolios, photography services, client testimonials, and contact information. The theme also features layouts for gallery displays, about pages, pricing, blogs, and more.With a responsive design, Patterns Photography ensures your website looks visually stunning and professional on all devices, offering an ideal platform to present your work and connect with potential clients."
 msgstr ""
 
 #. Author of the theme
+#: style.css
 msgid "patternswp"
 msgstr ""
 
 #. Author URI of the theme
+#: style.css
 msgid "https://patternswp.com/"
 msgstr ""
 
 #: admin/class-info.php:80
+#: deploy/patterns-photography/admin/class-info.php:80
 msgid "Theme Info"
 msgstr ""
 
 #: admin/templates/notice-getting-started.php:18
 #: admin/templates/notice-review.php:20
+#: deploy/patterns-photography/admin/templates/notice-getting-started.php:18
+#: deploy/patterns-photography/admin/templates/notice-review.php:20
 msgid "Dismiss"
 msgstr ""
 
 #. translators: 1: welcome page link starting html tag, 2: welcome page link ending html tag.
 #: admin/templates/notice-getting-started.php:27
+#: deploy/patterns-photography/admin/templates/notice-getting-started.php:27
+#, php-format
 msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer, please make sure you visit our %2$swelcome page%3$s."
 msgstr ""
 
 #. translators: %s: singular/plular .
 #: admin/templates/notice-getting-started.php:43
+#: deploy/patterns-photography/admin/templates/notice-getting-started.php:43
+#, php-format
 msgid "Clicking the button below will install and activate the following %s:"
 msgstr ""
 
 #: admin/templates/notice-getting-started.php:44
+#: deploy/patterns-photography/admin/templates/notice-getting-started.php:44
 msgid "plugins"
 msgstr ""
 
 #: admin/templates/notice-getting-started.php:44
+#: deploy/patterns-photography/admin/templates/notice-getting-started.php:44
 msgid "plugin"
 msgstr ""
 
 #: admin/templates/notice-getting-started.php:54
+#: deploy/patterns-photography/admin/templates/notice-getting-started.php:54
 msgid "Get started with Patterns Photography"
 msgstr ""
 
 #. Translators: %1$s current user display name.
 #: admin/templates/notice-review.php:26
+#: deploy/patterns-photography/admin/templates/notice-review.php:26
+#, php-format
 msgid "Howdy, %1$s! It seems that you have been using this theme for more than 15 days. We hope you are happy with everything that the theme has to offer. If you can spare a minute, please help us by leaving a review on WordPress.org. By spreading the love, we can continue to develop new amazing features in the future!"
 msgstr ""
 
 #: admin/templates/notice-review.php:38
+#: deploy/patterns-photography/admin/templates/notice-review.php:38
 msgid "Sure"
 msgstr ""
 
 #: admin/templates/notice-review.php:43
+#: deploy/patterns-photography/admin/templates/notice-review.php:43
 msgid "Maybe later"
 msgstr ""
 
 #: admin/templates/notice-review.php:48
+#: deploy/patterns-photography/admin/templates/notice-review.php:48
 msgid "I already did"
 msgstr ""
 
 #: admin/templates/notice-review.php:53
+#: deploy/patterns-photography/admin/templates/notice-review.php:53
 msgid "Got theme support question?"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:21
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:21
 msgid "Welcome to Patterns Photography"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:25
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:25
 msgid "The Patterns Photography is now active and ready for use. Unleash your creativity with its extensive library of one-click demo Starter Packages, Patterns, and Pattern Kits."
 msgstr ""
 
 #: admin/templates/page-theme-info.php:30
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:30
 msgid "Documentation"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:33
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:33
 msgid "Visit Starter Templates"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:44
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:44
 msgid "Use ready-made Design, Patterns, Templates & Template Parts"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:46
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:46
 msgid "Effortlessly use ready-made patterns, templates, and template parts to enhance your site design, making customization quick and easy without starting from scratch."
 msgstr ""
 
 #: admin/templates/page-theme-info.php:49
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:49
 msgid "Add a new page"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:60
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:60
 msgid "Customize Templates, Template Parts & More"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:63
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:63
 msgid "With a block theme, you can customize every aspect of both the theme and the site, from headers and footers to individual blocks, providing a cohesive and personalized design."
 msgstr ""
 
 #: admin/templates/page-theme-info.php:66
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:66
 msgid "Site Editor"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:77
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:77
 msgid "Transform your site's appearance with customizable fonts & colors"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:80
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:80
 msgid "Give your site a unique look by customizing fonts and colors. Achieve anything from subtle tweaks to complete makeovers, enhancing your  site's visual appeal and overall design."
 msgstr ""
 
 #: admin/templates/page-theme-info.php:83
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:83
 msgid "Customize styles"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:108
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:108
 msgid "Visit Site"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:111
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:111
 msgid "Support"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:120
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:120
 msgid "Contact Information"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:131
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:131
 msgid "Support:"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:136
 #: admin/templates/page-theme-info.php:224
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:136
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:224
 msgid "Create A Ticket"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:146
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:146
 msgid "Location:"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:150
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:150
 msgid "Kathmandu, Nepal"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:180
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:180
 msgid "Knowledge Base"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:185
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:185
 msgid "In-depth and well documented articles will help you to use the Patterns Photography Themes in easiest way."
 msgstr ""
 
 #: admin/templates/page-theme-info.php:188
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:188
 msgid "Visit Knowledge Base"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:198
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:198
 msgid "Community"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:203
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:203
 msgid "We want to make customer experience even better. So, join our Facebook community for instant support from experts."
 msgstr ""
 
 #: admin/templates/page-theme-info.php:206
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:206
 msgid "Join Facebook Group"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:216
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:216
 msgid "24x7 Support"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:221
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:221
 msgid "We have dedicated support team 24*7 to help you in case you encounter any issue during and after the use of Patterns Photography."
 msgstr ""
 
 #: admin/templates/page-theme-info.php:234
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:234
 msgid "Video Guide"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:239
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:239
 msgid "Patterns Photography Theme comes with detailed video tutorials of each and every customization with practical demonstration."
 msgstr ""
 
 #: admin/templates/page-theme-info.php:242
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:242
 msgid "View Video Guide"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:261
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:261
 msgid "Recommended Plugins"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:286
 #: admin/templates/page-theme-info.php:291
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:286
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:291
 msgid "Installed and Activated"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:291
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:291
 msgid "Failed to install"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:294
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:294
 msgid "Activate"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:296
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:296
 msgid "Install and Activate"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:318
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:318
 msgid "Quick Links"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:324
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:324
 msgid "Edit Header"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:327
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:327
 msgid "Edit Footer"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:330
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:330
 msgid "Edit Primary Sidebar"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:333
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:333
 msgid "Edit Secondary Sidebar"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:336
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:336
 msgid "All template parts"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:339
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:339
 msgid "Edit Frontpage"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:342
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:342
 msgid "Edit Atchive Page"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:345
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:345
 msgid "All Templates"
 msgstr ""
 
 #: admin/templates/page-theme-info.php:363
+#: deploy/patterns-photography/admin/templates/page-theme-info.php:363
 msgid "Frequently Asked Questions"
 msgstr ""
 
 #. translators: %s: Property name.
+#: deploy/patterns-photography/includes/api/class-api-settings.php:154
 #: includes/api/class-api-settings.php:154
+#, php-format
 msgid "The %s property has an invalid stored value, and cannot be updated to null."
 msgstr ""
 
+#: deploy/patterns-photography/includes/api/class-api.php:115
+#: deploy/patterns-photography/includes/api/class-api.php:127
 #: includes/api/class-api.php:115
 #: includes/api/class-api.php:127
 msgid "Cheatin&#8217; huh?"
 msgstr ""
 
+#: deploy/patterns-photography/includes/class-block-bindings.php:60
 #: includes/class-block-bindings.php:60
 msgctxt "Label for the copyright placeholder in the editor"
 msgid "&copy; YEAR"
 msgstr ""
 
+#: deploy/patterns-photography/includes/class-block-bindings.php:69
 #: includes/class-block-bindings.php:69
 msgctxt "Label for the archive title placeholder in the editor"
 msgid "Archive title"
 msgstr ""
 
 #. translators: Copyright date format, see https://www.php.net/manual/datetime.format.php
+#: deploy/patterns-photography/includes/class-block-bindings.php:94
 #: includes/class-block-bindings.php:94
 msgctxt "copyright date format"
 msgid "Y"
 msgstr ""
 
 #. translators: 1: Copyright symbol or word, 2: Date, 3: Site title
+#: deploy/patterns-photography/includes/class-block-bindings.php:97
 #: includes/class-block-bindings.php:97
+#, php-format
 msgid "%1$s %2$s %3$s"
 msgstr ""
 
 #. translators: %s is the search term.
+#: deploy/patterns-photography/includes/class-block-bindings.php:108
 #: includes/class-block-bindings.php:108
+#, php-format
 msgid "Search results for: \"%s\""
 msgstr ""
 
+#: deploy/patterns-photography/includes/class-block-bindings.php:112
+#: deploy/patterns-photography/patterns/navigation-menu.php:17
 #: includes/class-block-bindings.php:112
 #: patterns/navigation-menu.php:17
 msgid "Blog"
 msgstr ""
 
+#: deploy/patterns-photography/includes/class-include.php:85
 #: includes/class-include.php:85
 msgctxt "Block pattern category"
 msgid "Pages"
 msgstr ""
 
+#: deploy/patterns-photography/includes/class-include.php:86
 #: includes/class-include.php:86
 msgid "A collection of full page layouts."
 msgstr ""
 
+#: deploy/patterns-photography/includes/functions.php:27
 #: includes/functions.php:27
 msgid "Advanced Import"
 msgstr ""
 
 #. translators: %s the plugin info
+#: deploy/patterns-photography/includes/functions.php:67
 #: includes/functions.php:67
+#, php-format
 msgid "Not enough information about plugin. Plugin info %s"
 msgstr ""
 
 #. translators: %s is the plugin name
+#: deploy/patterns-photography/includes/functions.php:89
+#: deploy/patterns-photography/includes/functions.php:105
 #: includes/functions.php:89
 #: includes/functions.php:105
+#, php-format
 msgid "Plugin \"%s\" is already active."
 msgstr ""
 
 #. translators: %1$s is the plugin name, %2$s is error message
+#: deploy/patterns-photography/includes/functions.php:119
+#: deploy/patterns-photography/includes/functions.php:250
 #: includes/functions.php:119
 #: includes/functions.php:250
+#, php-format
 msgid "Error activating plugin \"%1$s\": %2$s"
 msgstr ""
 
 #. translators: %s is the plugin name.
+#: deploy/patterns-photography/includes/functions.php:130
+#: deploy/patterns-photography/includes/functions.php:236
 #: includes/functions.php:130
 #: includes/functions.php:236
+#, php-format
 msgid "Plugin \"%s\" activated successfully."
 msgstr ""
 
 #. translators: %s is the plugin name.
+#: deploy/patterns-photography/includes/functions.php:139
+#: deploy/patterns-photography/includes/functions.php:261
 #: includes/functions.php:139
 #: includes/functions.php:261
+#, php-format
 msgid "You don't have permission to activate the plugin \"%s\"."
 msgstr ""
 
 #. translators: %1$s is the plugin name, %2$s is error message
+#: deploy/patterns-photography/includes/functions.php:164
 #: includes/functions.php:164
+#, php-format
 msgid "Error retrieving information for plugin \"%1$s\": %2$s"
 msgstr ""
 
 #. translators: %1$s is the plugin name, %2$s is error message
+#: deploy/patterns-photography/includes/functions.php:183
+#: deploy/patterns-photography/includes/functions.php:193
+#: deploy/patterns-photography/includes/functions.php:203
+#: deploy/patterns-photography/includes/functions.php:223
 #: includes/functions.php:183
 #: includes/functions.php:193
 #: includes/functions.php:203
 #: includes/functions.php:223
+#, php-format
 msgid "Error installing plugin \"%1$s\": %2$s"
 msgstr ""
 
+#: deploy/patterns-photography/includes/functions.php:213
 #: includes/functions.php:213
 msgid "Unable to connect to the filesystem. Please confirm your credentials."
 msgstr ""
 
 #. translators: %s is the plugin name.
+#: deploy/patterns-photography/includes/functions.php:271
 #: includes/functions.php:271
+#, php-format
 msgid "Plugin \"%s\" installed and activated successfully."
 msgstr ""
 
+#: deploy/patterns-photography/includes/functions.php:305
 #: includes/functions.php:305
 msgid "and"
 msgstr ""
 
+#: deploy/patterns-photography/includes/functions.php:549
 #: includes/functions.php:549
 msgid "How can I customize the theme header?"
 msgstr ""
 
+#: deploy/patterns-photography/includes/functions.php:550
 #: includes/functions.php:550
 msgid "You can customize the theme header by editing the Header template part in the Site Editor. Go to Appearance > Editor > Patterns > Header, then select and edit the Header template part."
 msgstr ""
 
+#: deploy/patterns-photography/includes/functions.php:553
 #: includes/functions.php:553
 msgid "How do I change the footer credits?"
 msgstr ""
 
+#: deploy/patterns-photography/includes/functions.php:554
 #: includes/functions.php:554
 msgid "To change the footer credits, go to  Appearance > Editor > Patterns > Footer, then select and edit the Footer template part. You can add your own text or remove the existing credits."
 msgstr ""
 
+#: deploy/patterns-photography/includes/functions.php:557
 #: includes/functions.php:557
 msgid "Does this theme support block patterns?"
 msgstr ""
 
+#: deploy/patterns-photography/includes/functions.php:558
 #: includes/functions.php:558
 msgid "Yes, this theme includes several pre-designed block patterns that you can use to quickly create layouts. You can find these patterns in the block inserter."
 msgstr ""
 
+#: deploy/patterns-photography/includes/functions.php:561
 #: includes/functions.php:561
 msgid "How can I create custom templates?"
 msgstr ""
 
+#: deploy/patterns-photography/includes/functions.php:562
 #: includes/functions.php:562
 msgid "You can create custom templates by going to Appearance > Editor > Templates, then click Add New Template. You can then design your custom template using blocks."
 msgstr ""
 
+#: deploy/patterns-photography/includes/functions.php:565
 #: includes/functions.php:565
 msgid "How do I use global styles?"
 msgstr ""
 
+#: deploy/patterns-photography/includes/functions.php:566
 #: includes/functions.php:566
 msgid "To use global styles, go to Appearance > Editor > Styles, then click on the Edit icon in the top right side of Styles. From there, you can customize the colors, typography, and layout for your entire site."
 msgstr ""
 
+#: deploy/patterns-photography/patterns/archives.php:18
 #: patterns/archives.php:18
 msgid "Archives"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/calendar.php:18
 #: patterns/calendar.php:18
 msgid "Calendar"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/card-1.php:22
+#: deploy/patterns-photography/patterns/featured-section-3.php:37
+#: deploy/patterns-photography/patterns/featured-section-3.php:59
+#: deploy/patterns-photography/patterns/featured-section-3.php:81
 #: patterns/card-1.php:22
 #: patterns/featured-section-3.php:37
 #: patterns/featured-section-3.php:59
@@ -439,6 +568,10 @@ msgstr ""
 msgid "Photography"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/card-1.php:26
+#: deploy/patterns-photography/patterns/featured-section-3.php:41
+#: deploy/patterns-photography/patterns/featured-section-3.php:63
+#: deploy/patterns-photography/patterns/featured-section-3.php:85
 #: patterns/card-1.php:26
 #: patterns/featured-section-3.php:41
 #: patterns/featured-section-3.php:63
@@ -446,30 +579,57 @@ msgstr ""
 msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/card-2.php:16
 #: patterns/card-2.php:16
 msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/card-2.php:33
 #: patterns/card-2.php:33
 msgid "Savannah Nguyen"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/card-2.php:37
 #: patterns/card-2.php:37
 msgid "Executive CEO"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/card-3.php:17
+#: deploy/patterns-photography/patterns/card-4.php:20
+#: deploy/patterns-photography/patterns/featured-section-6.php:48
 #: patterns/card-3.php:17
 #: patterns/card-4.php:20
 #: patterns/featured-section-6.php:48
 msgid "Package Deluxe"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/card-3.php:21
+#: deploy/patterns-photography/patterns/card-4.php:24
+#: deploy/patterns-photography/patterns/featured-section-6.php:52
 #: patterns/card-3.php:21
 #: patterns/card-4.php:24
 #: patterns/featured-section-6.php:52
 msgid "$69"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/card-3.php:28
+#: deploy/patterns-photography/patterns/card-3.php:32
+#: deploy/patterns-photography/patterns/card-3.php:36
+#: deploy/patterns-photography/patterns/card-3.php:40
+#: deploy/patterns-photography/patterns/card-3.php:44
+#: deploy/patterns-photography/patterns/card-3.php:48
+#: deploy/patterns-photography/patterns/card-4.php:32
+#: deploy/patterns-photography/patterns/card-4.php:36
+#: deploy/patterns-photography/patterns/card-4.php:40
+#: deploy/patterns-photography/patterns/card-4.php:44
+#: deploy/patterns-photography/patterns/card-4.php:48
+#: deploy/patterns-photography/patterns/card-4.php:52
+#: deploy/patterns-photography/patterns/featured-section-6.php:59
+#: deploy/patterns-photography/patterns/featured-section-6.php:63
+#: deploy/patterns-photography/patterns/featured-section-6.php:67
+#: deploy/patterns-photography/patterns/featured-section-6.php:71
+#: deploy/patterns-photography/patterns/featured-section-6.php:75
+#: deploy/patterns-photography/patterns/featured-section-6.php:79
 #: patterns/card-3.php:28
 #: patterns/card-3.php:32
 #: patterns/card-3.php:36
@@ -491,12 +651,21 @@ msgstr ""
 msgid "Lorem ipsum dolor sit amet"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/card-3.php:55
+#: deploy/patterns-photography/patterns/card-4.php:62
+#: deploy/patterns-photography/patterns/featured-section-6.php:86
 #: patterns/card-3.php:55
 #: patterns/card-4.php:62
 #: patterns/featured-section-6.php:86
 msgid "Purchase Now"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/card-5.php:17
+#: deploy/patterns-photography/patterns/featured-section-7.php:32
+#: deploy/patterns-photography/patterns/featured-section-7.php:82
+#: deploy/patterns-photography/patterns/featured-section-7.php:100
+#: deploy/patterns-photography/patterns/featured-section-7.php:118
+#: deploy/patterns-photography/patterns/featured-section-7.php:136
 #: patterns/card-5.php:17
 #: patterns/featured-section-7.php:32
 #: patterns/featured-section-7.php:82
@@ -506,6 +675,12 @@ msgstr ""
 msgid "Christopher Williams"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/card-5.php:21
+#: deploy/patterns-photography/patterns/featured-section-7.php:36
+#: deploy/patterns-photography/patterns/featured-section-7.php:86
+#: deploy/patterns-photography/patterns/featured-section-7.php:104
+#: deploy/patterns-photography/patterns/featured-section-7.php:122
+#: deploy/patterns-photography/patterns/featured-section-7.php:140
 #: patterns/card-5.php:21
 #: patterns/featured-section-7.php:36
 #: patterns/featured-section-7.php:86
@@ -515,441 +690,1217 @@ msgstr ""
 msgid "Photographer"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/comments.php:19
 #: patterns/comments.php:19
 msgid "Comments"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/copyright.php:18
 #: patterns/copyright.php:18
 msgid "Dynamic copyright text"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/copyright.php:23
 #: patterns/copyright.php:23
 msgid ". All Rights Reserved"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-2.php:31
 #: patterns/featured-section-2.php:31
 msgid "We're a small and enthusiastic photography studio. We play with light."
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-2.php:46
 #: patterns/featured-section-2.php:46
 msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores eaque similique non distinctio voluptates Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores eaque similique non distinctio voluptates perspiciatis omnis, repellendus ipsa aperiam, laudantium voluptatum nulla?.maiores eaque similique non distinctio voluptates perspiciatis omnis, repellendus ipsa aperiam, laudantium voluptatum nulla?."
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-2.php:51
 #: patterns/featured-section-2.php:51
 msgid "Learn More"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-5.php:19
 #: patterns/featured-section-5.php:19
 msgid "Client Feedback"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-5.php:24
 #: patterns/featured-section-5.php:24
 msgid "Lets find what My honored members say."
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-6.php:19
 #: patterns/featured-section-6.php:19
 msgid "Choose Your Packages"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-6.php:23
+#: deploy/patterns-photography/patterns/featured-section-7.php:54
 #: patterns/featured-section-6.php:23
 #: patterns/featured-section-7.php:54
 msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-7.php:50
 #: patterns/featured-section-7.php:50
 msgid "Our Team Showcase"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-7.php:63
 #: patterns/featured-section-7.php:63
 msgid "Join Our Team"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-8.php:20
 #: patterns/featured-section-8.php:20
 msgid "News &amp; Articles"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-8.php:24
 #: patterns/featured-section-8.php:24
 msgid "Get The Latest Articles About The Different Aspects Photography"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-9.php:20
 #: patterns/featured-section-9.php:20
 msgid "Let's get in touch"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-9.php:24
 #: patterns/featured-section-9.php:24
 msgid "Contact us today to embark on a creative journey together!"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-9.php:32
 #: patterns/featured-section-9.php:32
 msgid "hello@example.com"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-9.php:36
 #: patterns/featured-section-9.php:36
 msgid "(808) 555-0111"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-9.php:56
 #: patterns/featured-section-9.php:56
 msgid "395 Page Mill Road, Suite 150, Palo Alto, California, USA."
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-11.php:20
 #: patterns/featured-section-11.php:20
 msgid "Get in Touch with Us"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-11.php:24
 #: patterns/featured-section-11.php:24
 msgid "If you need to message us, please fill out the form bellow"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/featured-section-11.php:32
 #: patterns/featured-section-11.php:32
 msgid "Add Contact form shortcode"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/footer.php:22
 #: patterns/footer.php:22
 msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/footer.php:29
 #: patterns/footer.php:29
 msgid "Contact Info"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/footer.php:39
 #: patterns/footer.php:39
 msgid "60 East 65th Street, New York City, NY 10065"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/footer.php:49
+#: deploy/patterns-photography/patterns/hero-banner-content.php:33
+#: deploy/patterns-photography/patterns/hidden-primary-header.php:48
 #: patterns/footer.php:49
 #: patterns/hero-banner-content.php:33
 #: patterns/hidden-primary-header.php:48
 msgid "info@example.com"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/footer.php:59
+#: deploy/patterns-photography/patterns/hero-banner-content.php:37
+#: deploy/patterns-photography/patterns/hidden-primary-header.php:38
 #: patterns/footer.php:59
 #: patterns/hero-banner-content.php:37
 #: patterns/hidden-primary-header.php:38
 msgid "(629) 555-0129"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/footer.php:67
 #: patterns/footer.php:67
 msgid "Follow Us"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/footer.php:71
 #: patterns/footer.php:71
 msgid "The perfect place for telling &amp; sharing all the stories that truly matter."
 msgstr ""
 
+#: deploy/patterns-photography/patterns/footer.php:87
 #: patterns/footer.php:87
 msgid "Recent News"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/hero-banner-content.php:19
 #: patterns/hero-banner-content.php:19
 msgid "The art of making memories"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/hero-banner-content.php:23
 #: patterns/hero-banner-content.php:23
 msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores eaque similique non distinctio voluptates perspiciatis omnis, repellendus ipsa aperiam, laudantium voluptatum nulla?."
 msgstr ""
 
-#: patterns/hidden-404.php:26
+#: deploy/patterns-photography/patterns/hidden-404.php:28
+#: patterns/hidden-404.php:28
 msgid "Ooops!"
 msgstr ""
 
-#: patterns/hidden-404.php:34
+#: deploy/patterns-photography/patterns/hidden-404.php:36
+#: patterns/hidden-404.php:36
 msgid "This page could not be found."
 msgstr ""
 
-#: patterns/hidden-404.php:42
+#: deploy/patterns-photography/patterns/hidden-404.php:44
+#: patterns/hidden-404.php:44
 msgid "We can't find the page you're looking for. Check out our Help Center or head back to home"
 msgstr ""
 
-#: patterns/hidden-404.php:51
+#: deploy/patterns-photography/patterns/hidden-404.php:53
+#: patterns/hidden-404.php:53
 msgid "Back To Home"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/hidden-no-search-results.php:15
 #: patterns/hidden-no-search-results.php:15
 msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
 msgstr ""
 
+#: deploy/patterns-photography/patterns/hidden-no-search-results.php:19
 #: patterns/hidden-no-search-results.php:19
 msgctxt "label"
 msgid "Search"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/hidden-no-search-results.php:19
 #: patterns/hidden-no-search-results.php:19
 msgctxt "placeholder for search field"
 msgid "Search..."
 msgstr ""
 
+#: deploy/patterns-photography/patterns/hidden-no-search-results.php:19
 #: patterns/hidden-no-search-results.php:19
 msgid "Search"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/hidden-primary-header.php:27
 #: patterns/hidden-primary-header.php:27
 msgid "Mon - Fri 9:00 -17:00"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/hidden-primary-header.php:92
 #: patterns/hidden-primary-header.php:92
 msgid "Hire Us Now"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/hidden-query-no-results.php:16
 #: patterns/hidden-query-no-results.php:16
 msgid "Page could not be found"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/hidden-query-no-results.php:20
 #: patterns/hidden-query-no-results.php:20
 msgid "We're sorry, the page you requested could not be found. Please go back to the homepage"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/hidden-query-no-results.php:25
 #: patterns/hidden-query-no-results.php:25
 msgid "Back to Home"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/latest-comments.php:16
 #: patterns/latest-comments.php:16
 msgid "Recent comments"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/latest-posts.php:16
 #: patterns/latest-posts.php:16
 msgid "Recent Posts"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/navigation-menu.php:14
 #: patterns/navigation-menu.php:14
 msgctxt "label"
 msgid "Home"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/navigation-menu.php:15
 #: patterns/navigation-menu.php:15
 msgid "About"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/navigation-menu.php:16
+#: deploy/patterns-photography/patterns/section-title-1.php:16
 #: patterns/navigation-menu.php:16
 #: patterns/section-title-1.php:16
 msgid "Services"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/navigation-menu.php:18
 #: patterns/navigation-menu.php:18
 msgid "Contact"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/pagination.php:15
 #: patterns/pagination.php:15
 msgctxt "label"
 msgid "Previous"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/pagination.php:19
 #: patterns/pagination.php:19
 msgctxt "label"
 msgid "Next"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/post-meta.php:19
 #: patterns/post-meta.php:19
 msgid "Posted :"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/post-meta.php:26
 #: patterns/post-meta.php:26
 msgid "by :"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/scroll-to-top-button.php:17
 #: patterns/scroll-to-top-button.php:17
 msgid "Scroll To Top"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/section-title-1.php:21
 #: patterns/section-title-1.php:21
 msgid "We Envision Design &amp; Develop Digital Digital Experience that create possibility in an ever changing world."
 msgstr ""
 
+#: deploy/patterns-photography/patterns/section-title-2.php:16
 #: patterns/section-title-2.php:16
 msgid "We love high quality photo products"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/section-title-2.php:20
 #: patterns/section-title-2.php:20
 msgid "Our Best Creation Where We Make The Photograph Alive."
 msgstr ""
 
+#: deploy/patterns-photography/patterns/sitemap.php:19
 #: patterns/sitemap.php:19
 msgid "Pages"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/sitemap.php:29
 #: patterns/sitemap.php:29
 msgid "Categories"
 msgstr ""
 
+#: deploy/patterns-photography/patterns/sitemap.php:39
 #: patterns/sitemap.php:39
 msgid "Posts"
 msgstr ""
 
+#: patterns/archives.php
+msgctxt "Pattern title"
+msgid "Archives"
+msgstr ""
+
+#: patterns/archives.php
+msgctxt "Pattern description"
+msgid "Display a date-based archive of posts, commonly placed in sidebars, footers, or site maps."
+msgstr ""
+
+#: patterns/calendar.php
+msgctxt "Pattern title"
+msgid "Calendar"
+msgstr ""
+
+#: patterns/calendar.php
+msgctxt "Pattern description"
+msgid "Display a calendar showing your site’s posts, commonly placed in sidebars, footers, or site maps."
+msgstr ""
+
+#: patterns/card-1.php
+msgctxt "Pattern title"
+msgid "Card 1"
+msgstr ""
+
+#: patterns/card-1.php
+#: patterns/card-2.php
+#: patterns/card-3.php
+#: patterns/card-4.php
+#: patterns/card-5.php
+#: patterns/featured-section-1.php
+#: patterns/featured-section-2.php
+#: patterns/featured-section-3.php
+#: patterns/featured-section-4.php
+#: patterns/featured-section-5.php
+#: patterns/featured-section-6.php
+#: patterns/featured-section-7.php
+#: patterns/featured-section-8.php
+#: patterns/featured-section-9.php
+#: patterns/featured-section-10.php
+#: patterns/featured-section-11.php
+msgctxt "Pattern description"
+msgid "A collection of various WordPress inbuilt blocks, such as headings, paragraphs, image, groups, and buttons, arranged in different positions to form a complete page layout."
+msgstr ""
+
+#: patterns/card-2.php
+msgctxt "Pattern title"
+msgid "Card 2"
+msgstr ""
+
+#: patterns/card-3.php
+msgctxt "Pattern title"
+msgid "Card 3"
+msgstr ""
+
+#: patterns/card-4.php
+msgctxt "Pattern title"
+msgid "Card 4"
+msgstr ""
+
+#: patterns/card-5.php
+msgctxt "Pattern title"
+msgid "Card 5"
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern description"
+msgid "Display post comments."
+msgstr ""
+
+#: patterns/copyright.php
+msgctxt "Pattern title"
+msgid "Copyright"
+msgstr ""
+
+#: patterns/copyright.php
+msgctxt "Pattern description"
+msgid "Dynamic copyright text"
+msgstr ""
+
+#: patterns/featured-section-1.php
+msgctxt "Pattern title"
+msgid "Featured Section 1"
+msgstr ""
+
+#: patterns/featured-section-2.php
+msgctxt "Pattern title"
+msgid "Featured Section 2"
+msgstr ""
+
+#: patterns/featured-section-3.php
+msgctxt "Pattern title"
+msgid "Featured Section 3"
+msgstr ""
+
+#: patterns/featured-section-4.php
+msgctxt "Pattern title"
+msgid "Featured Section 4"
+msgstr ""
+
+#: patterns/featured-section-5.php
+msgctxt "Pattern title"
+msgid "Featured Section 5"
+msgstr ""
+
+#: patterns/featured-section-6.php
+msgctxt "Pattern title"
+msgid "Featured Section 6"
+msgstr ""
+
+#: patterns/featured-section-7.php
+msgctxt "Pattern title"
+msgid "Featured Section 7"
+msgstr ""
+
+#: patterns/featured-section-8.php
+msgctxt "Pattern title"
+msgid "Featured Section 8"
+msgstr ""
+
+#: patterns/featured-section-9.php
+msgctxt "Pattern title"
+msgid "Featured Section 9"
+msgstr ""
+
+#: patterns/featured-section-10.php
+msgctxt "Pattern title"
+msgid "Featured Section 10"
+msgstr ""
+
+#: patterns/featured-section-11.php
+msgctxt "Pattern title"
+msgid "Featured Section 11"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern description"
+msgid "A pattern for displaying the site footer."
+msgstr ""
+
+#: patterns/header-absolute.php
+msgctxt "Pattern title"
+msgid "Header Absolute"
+msgstr ""
+
+#: patterns/header-absolute.php
+msgctxt "Pattern description"
+msgid "A pattern for displaying the site header with an absolute positioning."
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern description"
+msgid "A pattern for displaying the site header."
+msgstr ""
+
+#: patterns/hero-banner-content.php
+msgctxt "Pattern title"
+msgid "Hero Banner Content"
+msgstr ""
+
+#: patterns/hero-banner-content.php
+msgctxt "Pattern description"
+msgid "A layout that displays a title, content, and button group, suited for showcasing a hero banner."
+msgstr ""
+
+#: patterns/hero-banner.php
+msgctxt "Pattern title"
+msgid "Hero Banner"
+msgstr ""
+
+#: patterns/hero-banner.php
+msgctxt "Pattern description"
+msgid "A layout for displaying hero banner content with a background and SVGs."
+msgstr ""
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/hidden-no-search-results.php
+msgctxt "Pattern title"
+msgid "No Search Result"
+msgstr ""
+
+#: patterns/hidden-primary-header.php
+msgctxt "Pattern title"
+msgid "Primary Header"
+msgstr ""
+
+#: patterns/hidden-query-no-results.php
+msgctxt "Pattern title"
+msgid "Query No Result"
+msgstr ""
+
+#: patterns/hidden-single-post-content.php
+msgctxt "Pattern title"
+msgid "Single Post"
+msgstr ""
+
+#: patterns/hidden-single-post-content.php
+msgctxt "Pattern description"
+msgid "A layout that displays single post content with post navigation and comments."
+msgstr ""
+
+#: patterns/landing.php
+msgctxt "Pattern title"
+msgid "Landing"
+msgstr ""
+
+#: patterns/landing.php
+msgctxt "Pattern description"
+msgid "A layout template for displaying the main landing front page."
+msgstr ""
+
+#: patterns/latest-comments.php
+msgctxt "Pattern title"
+msgid "Latest Comments"
+msgstr ""
+
+#: patterns/latest-comments.php
+msgctxt "Pattern description"
+msgid "Display latest comments, commonly placed in sidebars or footers."
+msgstr ""
+
+#: patterns/latest-posts.php
+msgctxt "Pattern title"
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/latest-posts.php
+msgctxt "Pattern description"
+msgid "Display latest posts, commonly placed in sidebars or footers."
+msgstr ""
+
+#: patterns/list-archive-both-sidebar.php
+msgctxt "Pattern title"
+msgid "Archive with Both Sidebars"
+msgstr ""
+
+#: patterns/list-archive-both-sidebar.php
+msgctxt "Pattern description"
+msgid "Layout template for displaying archives with both left and right sidebars."
+msgstr ""
+
+#: patterns/list-archive-full-width.php
+msgctxt "Pattern title"
+msgid "Archive Full Width"
+msgstr ""
+
+#: patterns/list-archive-full-width.php
+msgctxt "Pattern description"
+msgid "Full-width layout template for displaying archives without sidebars."
+msgstr ""
+
+#: patterns/list-archive-header.php
+msgctxt "Pattern title"
+msgid "Archive Page Header"
+msgstr ""
+
+#: patterns/list-archive-header.php
+msgctxt "Pattern description"
+msgid "Layout template for displaying the header of an archive page."
+msgstr ""
+
+#: patterns/list-archive-left-sidebar.php
+msgctxt "Pattern title"
+msgid "Archive with Left Sidebar"
+msgstr ""
+
+#: patterns/list-archive-left-sidebar.php
+msgctxt "Pattern description"
+msgid "Layout template for displaying a archives with a left sidebar."
+msgstr ""
+
+#: patterns/list-archive-right-sidebar.php
+msgctxt "Pattern title"
+msgid "Archive with Right Sidebar"
+msgstr ""
+
+#: patterns/list-archive-right-sidebar.php
+msgctxt "Pattern description"
+msgid "Layout template for displaying archives with a right sidebar."
+msgstr ""
+
+#: patterns/navigation-menu.php
+msgctxt "Pattern title"
+msgid "Navigation Menu"
+msgstr ""
+
+#: patterns/navigation-menu.php
+msgctxt "Pattern description"
+msgid "A pattern for displaying the site menu."
+msgstr ""
+
+#: patterns/page-about.php
+msgctxt "Pattern title"
+msgid "Page About"
+msgstr ""
+
+#: patterns/page-about.php
+msgctxt "Pattern description"
+msgid "A layout that displays about  page."
+msgstr ""
+
+#: patterns/page-contact.php
+msgctxt "Pattern title"
+msgid "Page Contact"
+msgstr ""
+
+#: patterns/page-contact.php
+msgctxt "Pattern description"
+msgid "A layout that displays contact page."
+msgstr ""
+
+#: patterns/page-services.php
+msgctxt "Pattern title"
+msgid "Page Service"
+msgstr ""
+
+#: patterns/page-services.php
+msgctxt "Pattern description"
+msgid "A layout that displays services page."
+msgstr ""
+
+#: patterns/pagination.php
+msgctxt "Pattern title"
+msgid "Pagination"
+msgstr ""
+
+#: patterns/pagination.php
+msgctxt "Pattern description"
+msgid "Display pagination controls, commonly used within a query block."
+msgstr ""
+
+#: patterns/post-meta.php
+msgctxt "Pattern title"
+msgid "Post Meta"
+msgstr ""
+
+#: patterns/post-meta.php
+msgctxt "Pattern description"
+msgid "Display post meta information, commonly used within a query block."
+msgstr ""
+
+#: patterns/post-navigation.php
+msgctxt "Pattern title"
+msgid "Post Navigation"
+msgstr ""
+
+#: patterns/post-navigation.php
+msgctxt "Pattern description"
+msgid "Display post navigation controls, commonly used within a query block in single post templates."
+msgstr ""
+
+#: patterns/primary-sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr ""
+
+#: patterns/primary-sidebar.php
+msgctxt "Pattern description"
+msgid "Display a collection of blocks for primary sidebar template part."
+msgstr ""
+
+#: patterns/query-grid.php
+msgctxt "Pattern title"
+msgid "Query Grid"
+msgstr ""
+
+#: patterns/query-grid.php
+msgctxt "Pattern description"
+msgid "Display a query block in a grid layout."
+msgstr ""
+
+#: patterns/query-list-min.php
+msgctxt "Pattern title"
+msgid "Query List Minimal"
+msgstr ""
+
+#: patterns/query-list-min.php
+msgctxt "Pattern description"
+msgid "Displays a query block in a list layout with minimal content."
+msgstr ""
+
+#: patterns/query-list.php
+msgctxt "Pattern title"
+msgid "Query List"
+msgstr ""
+
+#: patterns/query-list.php
+msgctxt "Pattern description"
+msgid "Display a query block in a list layout."
+msgstr ""
+
+#: patterns/scroll-to-top-button.php
+msgctxt "Pattern title"
+msgid "Scroll To Top Button"
+msgstr ""
+
+#: patterns/scroll-to-top-button.php
+msgctxt "Pattern description"
+msgid "Display a button to scroll to the top of the page."
+msgstr ""
+
+#: patterns/search-form.php
+msgctxt "Pattern title"
+msgid "Search Form"
+msgstr ""
+
+#: patterns/search-form.php
+msgctxt "Pattern description"
+msgid "Display a search block, commonly used in headers, sidebars, and footers."
+msgstr ""
+
+#: patterns/secondary-sidebar.php
+msgctxt "Pattern title"
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: patterns/secondary-sidebar.php
+msgctxt "Pattern description"
+msgid "Display a collection of blocks for secondary sidebar template part."
+msgstr ""
+
+#: patterns/section-title-1.php
+msgctxt "Pattern title"
+msgid "Section Title 1"
+msgstr ""
+
+#: patterns/section-title-1.php
+#: patterns/section-title-2.php
+msgctxt "Pattern description"
+msgid "A layout featuring a title, content, and button group in centered alignment, commonly used for section titles in feature areas."
+msgstr ""
+
+#: patterns/section-title-2.php
+msgctxt "Pattern title"
+msgid "Section Title 2"
+msgstr ""
+
+#: patterns/single-header.php
+msgctxt "Pattern title"
+msgid "Page Header With Post Title"
+msgstr ""
+
+#: patterns/single-header.php
+msgctxt "Pattern description"
+msgid "Page header that displays the post, page or post type title."
+msgstr ""
+
+#: patterns/single-page-both-sidebar.php
+msgctxt "Pattern title"
+msgid "Page Both Sidebar"
+msgstr ""
+
+#: patterns/single-page-both-sidebar.php
+msgctxt "Pattern description"
+msgid "A layout template for displaying a page with both left and right sidebars."
+msgstr ""
+
+#: patterns/single-page-full-width.php
+msgctxt "Pattern title"
+msgid "Page Full Width"
+msgstr ""
+
+#: patterns/single-page-full-width.php
+msgctxt "Pattern description"
+msgid "A full-width layout template for displaying a page without sidebars."
+msgstr ""
+
+#: patterns/single-page-left-sidebar.php
+msgctxt "Pattern title"
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: patterns/single-page-left-sidebar.php
+msgctxt "Pattern description"
+msgid "A layout template for displaying a page with a left sidebar."
+msgstr ""
+
+#: patterns/single-page-right-sidebar.php
+msgctxt "Pattern title"
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: patterns/single-page-right-sidebar.php
+msgctxt "Pattern description"
+msgid "A layout template for displaying a page with a right sidebar."
+msgstr ""
+
+#: patterns/single-post-both-sidebar.php
+msgctxt "Pattern title"
+msgid "Single Post Both Sidebar"
+msgstr ""
+
+#: patterns/single-post-both-sidebar.php
+msgctxt "Pattern description"
+msgid "A layout template for displaying a post with both left and right sidebars."
+msgstr ""
+
+#: patterns/single-post-full-width.php
+msgctxt "Pattern title"
+msgid "Single Full width"
+msgstr ""
+
+#: patterns/single-post-full-width.php
+msgctxt "Pattern description"
+msgid "A full-width layout template for displaying a post without sidebars."
+msgstr ""
+
+#: patterns/single-post-left-sidebar.php
+msgctxt "Pattern title"
+msgid "Single Left Sidebar"
+msgstr ""
+
+#: patterns/single-post-left-sidebar.php
+msgctxt "Pattern description"
+msgid "A layout template for displaying a post with a left sidebar."
+msgstr ""
+
+#: patterns/single-post-right-sidebar.php
+msgctxt "Pattern title"
+msgid "Single Right Sidebar"
+msgstr ""
+
+#: patterns/single-post-right-sidebar.php
+msgctxt "Pattern description"
+msgid "A layout template for displaying a post with a right sidebar."
+msgstr ""
+
+#: patterns/site-identity.php
+msgctxt "Pattern title"
+msgid "Site Identity"
+msgstr ""
+
+#: patterns/site-identity.php
+msgctxt "Pattern description"
+msgid "Display site logo, title and tagline."
+msgstr ""
+
+#: patterns/sitemap.php
+msgctxt "Pattern title"
+msgid "Page Sitemap"
+msgstr ""
+
+#: patterns/sitemap.php
+msgctxt "Pattern description"
+msgid "A layout that displays site maps."
+msgstr ""
+
+#: deploy/patterns-photography/theme.json
 #: theme.json
+#: styles/dark.json
 msgctxt "Color name"
 msgid "Base"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
+#: styles/dark.json
 msgctxt "Color name"
 msgid "Default"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
+#: styles/dark.json
 msgctxt "Color name"
 msgid "Primary"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
+#: styles/dark.json
 msgctxt "Color name"
 msgid "Secondary"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
+#: styles/dark.json
 msgctxt "Color name"
 msgid "Tertiary"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
+#: styles/dark.json
 msgctxt "Color name"
 msgid "Quaternary"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
+#: styles/dark.json
 msgctxt "Color name"
 msgid "Quinary"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
+#: styles/dark.json
 msgctxt "Color name"
 msgid "Accent"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
+#: theme.json
+#: styles/dark.json
+msgctxt "Duotone name"
+msgid "Base to Primary"
+msgstr ""
+
+#: deploy/patterns-photography/theme.json
+#: theme.json
+#: styles/dark.json
+msgctxt "Duotone name"
+msgid "Base to Secondary"
+msgstr ""
+
+#: deploy/patterns-photography/theme.json
+#: theme.json
+#: styles/dark.json
+msgctxt "Duotone name"
+msgid "White to Primary"
+msgstr ""
+
+#: deploy/patterns-photography/theme.json
+#: theme.json
+#: styles/dark.json
+msgctxt "Duotone name"
+msgid "White to Accent"
+msgstr ""
+
+#: deploy/patterns-photography/theme.json
+#: theme.json
+#: styles/dark.json
+msgctxt "Duotone name"
+msgid "Tertiary to Secondary"
+msgstr ""
+
+#: deploy/patterns-photography/theme.json
+#: theme.json
+#: styles/dark.json
+msgctxt "Duotone name"
+msgid "Base to Quinary"
+msgstr ""
+
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Space size name"
 msgid "Tiny"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Space size name"
 msgid "X-Small"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Space size name"
 msgid "Small"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Space size name"
 msgid "Medium"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Space size name"
 msgid "Regular"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Space size name"
 msgid "Large"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Space size name"
 msgid "X-Large"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Space size name"
 msgid "XX-Large"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: deploy/patterns-photography/theme.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: deploy/patterns-photography/theme.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: deploy/patterns-photography/theme.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: deploy/patterns-photography/theme.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: deploy/patterns-photography/theme.json
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Extra Large"
+msgstr ""
+
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Custom template name"
 msgid "Blank"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Custom template name"
 msgid "Page (with both sidebar)"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Custom template name"
 msgid "Page (with left sidebar)"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Custom template name"
 msgid "Page (with right sidebar)"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Custom template name"
 msgid "Single (with both sidebar)"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Custom template name"
 msgid "Single (with left sidebar)"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Custom template name"
 msgid "Single (with right sidebar)"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Comments"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Site Footer"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Site Header (with absolute position)"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Site Header (default)"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Archive Page Header"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Blog Home Page Header"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Search Page Header"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Post Meta"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Post Navigation"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Primary Sidebar"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Secondary Sidebar"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Single Header"
 msgstr ""
 
+#: deploy/patterns-photography/theme.json
 #: theme.json
 msgctxt "Template part name"
 msgid "Primary Header"
+msgstr ""
+
+#: styles/blocks/button-outline-secondary.json
+msgctxt "Style variation name"
+msgid "Secondary Outline"
+msgstr ""
+
+#: styles/blocks/button.json
+msgctxt "Style variation name"
+msgid "Scroll to top"
+msgstr ""
+
+#: styles/blocks/list.json
+msgctxt "Style variation name"
+msgid "Checkmark"
+msgstr ""
+
+#: styles/dark.json
+msgctxt "Style variation name"
+msgid "Dark"
 msgstr ""
