@@ -36,14 +36,14 @@ if ( ! class_exists( 'Patterns_Photography_Api' ) ) {
 		/**
 		 * Rest route namespace.
 		 *
-		 * @var Patterns_Photography_Api
+		 * @var string
 		 */
 		public $namespace = 'patterns-photography/';
 
 		/**
 		 * Rest route version.
 		 *
-		 * @var Patterns_Photography_Api
+		 * @var string
 		 */
 		public $version = 'v1';
 
