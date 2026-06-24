@@ -14,7 +14,7 @@
 <!-- wp:group {"style":{"border":{"style":"solid","width":"1px"},"spacing":{"blockGap":"0"},"elements":{"link":{"color":{"text":"var:preset|color|default"}}}},"backgroundColor":"secondary","textColor":"default","borderColor":"quinary","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-border-color has-quinary-border-color has-default-color has-secondary-background-color has-text-color has-background has-link-color"
     style="border-style:solid;border-width:1px">
-    
+
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10","padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:heading {"textAlign":"center","level":5} -->
 <h5 class="wp-block-heading has-text-align-center"><?php esc_html_e( 'Package Deluxe', 'patterns-photography' ); ?></h5>

@@ -28,7 +28,7 @@
 
 <!-- wp:column {"verticalAlignment":"bottom","width":"40%"} -->
 <div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:40%">
-    
+
 <!-- wp:paragraph {"align":"right","className":"pwp-txt-dec-non","style":{"elements":{"link":{"color":{"text":"var:preset|color|default"},":hover":{"color":{"text":"var:preset|color|primary"}}}}},"fontSize":"small"} -->
 <p class="has-text-align-right pwp-txt-dec-non has-link-color has-small-font-size"><a href="<?php echo esc_url( 'mailto:info@example.com' ); ?>"><?php esc_html_e( 'info@example.com', 'patterns-photography' ); ?></a></p>
 <!-- /wp:paragraph -->

@@ -26,7 +26,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"constrained","wideSize":""}} -->
 <div class="wp-block-group">
-    
+
 <!-- wp:heading {"className":"alignfull has-text-align-left has-base-color has-secondary-color has-text-color"} -->
 <h2 class="wp-block-heading alignfull has-text-align-left has-base-color has-secondary-color has-text-color"><?php esc_html_e( 'We\'re a small and enthusiastic photography studio. We play with light.', 'patterns-photography' ); ?></h2>
 <!-- /wp:heading -->
@@ -41,7 +41,7 @@
 <div class="wp-block-column is-vertically-aligned-bottom" style="flex-basis:80%"><!-- wp:group {"style":{"spacing":{"padding":{"left":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|80"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-left:var(--wp--preset--spacing--80)"><!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group">
-    
+
 <!-- wp:paragraph {"align":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"300"}},"textColor":"quaternary","fontSize":"small"} -->
 <p class="has-text-align-left has-quaternary-color has-text-color has-small-font-size" style="font-style:normal;font-weight:300"><?php esc_html_e( 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores eaque similique non distinctio voluptates Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores eaque similique non distinctio voluptates perspiciatis omnis, repellendus ipsa aperiam, laudantium voluptatum nulla?.maiores eaque similique non distinctio voluptates perspiciatis omnis, repellendus ipsa aperiam, laudantium voluptatum nulla?.', 'patterns-photography' ); ?></p>
 <!-- /wp:paragraph -->
